@@ -28,6 +28,10 @@ body {
     background: url(../img/blue_background_stars.png);
 }
 
+h1, h2, h3 {
+    font-family: 'Cuprum', sans-serif;
+}
+
 header {
     background: #ffffff;
     padding: 20px 0;
