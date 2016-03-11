@@ -30,6 +30,16 @@ body {
 
 h1, h2, h3 {
     font-family: 'Cuprum', sans-serif;
+    margin-top: 0;
+}
+
+a {
+    color: #9cca3d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f7932f;
 }
 
 header {
@@ -47,4 +57,10 @@ header figure img {
         width: 550px;
         margin: auto;
     }
+}
+
+#font-examples {
+    margin: 1em;
+    padding: 1em;
+    background: #ffffff;
 }
