@@ -7,3 +7,7 @@ html {
 *:after {
     box-sizing: inherit;
 }
+
+body {
+    background: url(../img/blue_background_stars.png);
+}
