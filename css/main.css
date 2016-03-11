@@ -37,3 +37,10 @@ header figure img {
     width: 100%;
     padding: 0 1em;
 }
+
+@media all and (min-width: 550px) {
+    header figure {
+        width: 550px;
+        margin: auto;
+    }
+}
