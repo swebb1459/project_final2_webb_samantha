@@ -64,3 +64,21 @@ header figure img {
     padding: 1em;
     background: #ffffff;
 }
+
+#button-examples {
+    margin: 1em;
+    max-width: 275px;
+}
+
+button {
+    font-weight: bold;
+    color: #ffffff;
+    width: 100%;
+    padding: 10px 0;
+    background: #9cca3d;
+    border: none;
+}
+
+button:hover {
+    background: #f7932f;
+}
