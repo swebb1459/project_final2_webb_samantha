@@ -149,3 +149,20 @@ button:hover {
         margin-left: 2.5%;
     }
 }
+
+@media all and (min-width: 860px) {
+    .float-left-1 {
+        width: 60%;
+        float: left;
+    }
+
+    .float-left-2 {
+        float: left;
+        width: 20%;
+    }
+
+    .float-right {
+        float: right;
+        width: 10%;
+    }
+}
