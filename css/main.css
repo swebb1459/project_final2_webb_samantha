@@ -104,7 +104,18 @@ button:hover {
 }
 
 @media all and (min-width: 550px) {
+    #images-examples section {
+        width: calc(100%/3);
+        display: inline-block;
+    }
 }
+
+@media all and (min-width: 550px) {
+    #images-examples section + section {
+        margin-top: 0;
+    }
+}
+
 
 #color-examples {
     margin: 1em;
