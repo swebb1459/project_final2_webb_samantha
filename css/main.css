@@ -149,20 +149,3 @@ button:hover {
         margin-left: 2.5%;
     }
 }
-
-@media all and (min-width: 860px) {
-    .float-left-1 {
-        width: calc(60% - 1em);
-        float: left;
-    }
-
-    .float-right {
-        float: right;
-        width: 15%;
-    }
-
-    #color-examples section {
-        display: block;
-        width: 100%;
-    }
-}
