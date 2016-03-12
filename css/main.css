@@ -28,7 +28,7 @@ body {
     background: url(../img/blue_background_stars.png);
 }
 
-h1, h2, h3 {
+h1, h2, h3, button {
     font-family: 'Cuprum', sans-serif;
     margin-top: 0;
 }
@@ -81,4 +81,11 @@ button {
 
 button:hover {
     background: #f7932f;
+}
+
+.image-ex {
+    width: 100%;
+    margin: 1em;
+    padding: 1em;
+    background: #ffffff;
 }
