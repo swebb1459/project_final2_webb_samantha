@@ -156,11 +156,6 @@ button:hover {
         float: left;
     }
 
-    .float-left-2 {
-        float: left;
-        width: calc(20% - 1em);
-    }
-
     .float-right {
         float: right;
         width: 15%;
