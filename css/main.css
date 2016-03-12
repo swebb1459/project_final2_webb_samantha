@@ -92,3 +92,11 @@ button:hover {
     padding: 1em;
     background: #ffffff;
 }
+
+#images-examples section + section {
+    margin-top: 1em;
+}
+
+#images-examples section img {
+    width: 100%;
+}
