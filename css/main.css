@@ -108,9 +108,10 @@ button:hover {
 }
 
 #color-examples section {
-    width: 100%;
-    padding: 1em;
+    width: 50%;
+    padding: .5em;
     background: #ffffff;
+    display: inline-block;
 }
 
 #color-examples section img {
