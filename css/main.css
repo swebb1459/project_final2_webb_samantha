@@ -83,9 +83,12 @@ button:hover {
     background: #f7932f;
 }
 
-.image-ex {
-    width: 100%;
+#images-examples {
     margin: 1em;
+}
+
+#images-examples section {
+    width: 100%;
     padding: 1em;
     background: #ffffff;
 }
