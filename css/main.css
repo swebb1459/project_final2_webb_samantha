@@ -116,3 +116,7 @@ button:hover {
 #color-examples section img {
     width: 100%;
 }
+
+#color-examples section + section {
+    margin-top: 1em;
+}
