@@ -160,4 +160,8 @@ button:hover {
         float: right;
         width: 35%;
     }
+
+    .clear {
+        clear: both;
+    }
 }
