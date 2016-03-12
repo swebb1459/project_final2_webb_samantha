@@ -166,6 +166,16 @@ button:hover {
         width: 10%;
     }
 
+    #images-examples section {
+        display: block;
+        width: 100%;
+    }
+
+    #images-examples section + section {
+        margin-top: 1em;
+        margin-left: 0;
+    }
+
     #color-examples section {
         display: block;
         width: 100%;
