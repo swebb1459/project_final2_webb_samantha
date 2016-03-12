@@ -28,22 +28,17 @@ body {
     background: url(../img/blue_background_stars.png);
 }
 
-h1 {
+h1, h2, h3 {
     font-family: 'Cuprum', sans-serif;
     margin-top: 0;
-    color: #ea252c;
 }
 
 h2 {
-    font-family: 'Cuprum', sans-serif;
-    margin-top: 0;
     color: #ea252c;
     font-size: 2em;
 }
 
 h3 {
-    font-family: 'Cuprum', sans-serif;
-    margin-top: 0;
     color: #f7932f;
     font-size: 1.5em;
 }
