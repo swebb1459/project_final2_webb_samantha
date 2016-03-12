@@ -158,6 +158,18 @@ button:hover {
 
     .float-right {
         float: right;
-        width: 35%;
+        width: 40%;
+    }
+
+    #color-examples section {
+        width: 30%;
+    }
+
+    .space {
+        margin-right: 0;
+    }
+
+    #color-examples section + section {
+        margin-left: 2.5%;
     }
 }
