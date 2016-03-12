@@ -152,18 +152,18 @@ button:hover {
 
 @media all and (min-width: 860px) {
     .float-left-1 {
-        width: 60%;
+        width: calc(60% - 1em);
         float: left;
     }
 
     .float-left-2 {
         float: left;
-        width: 20%;
+        width: calc(20% - 1em);
     }
 
     .float-right {
         float: right;
-        width: 10%;
+        width: 15%;
     }
 
     #images-examples section {
