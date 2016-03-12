@@ -67,7 +67,7 @@ header figure img {
 }
 
 #button-examples {
-    margin: 1em;
+    margin: 1em auto;
     max-width: 275px;
 }
 
