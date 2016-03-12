@@ -103,21 +103,25 @@ button:hover {
     width: 100%;
 }
 
+@media all and (min-width: 550px) {
+}
+
 #color-examples {
     margin: 1em;
 }
 
 #color-examples section {
-    width: 50%;
+    width: 47%;
     padding: .5em;
     background: #ffffff;
     display: inline-block;
+    margin-bottom: 1em;
 }
 
 #color-examples section img {
     width: 100%;
 }
 
-#color-examples section + section {
-    margin-top: 1em;
+.space {
+    margin-right: 6%;
 }
