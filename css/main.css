@@ -25,7 +25,7 @@ html {
 }
 
 body {
-    background: url(../img/blue_background_stars.png);
+    background: #192860;
 }
 
 h1, h2, h3 {
@@ -100,5 +100,19 @@ button:hover {
 }
 
 #images-examples section img {
+    width: 100%;
+}
+
+#color-examples {
+    margin: 1em;
+}
+
+#color-examples section {
+    width: 100%;
+    padding: 1em;
+    background: #ffffff;
+}
+
+#color-examples section img {
     width: 100%;
 }
