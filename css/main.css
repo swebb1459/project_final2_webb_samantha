@@ -135,3 +135,17 @@ button:hover {
 .space {
     margin-right: 6%;
 }
+
+@media all and (min-width: 550px) {
+    #color-examples section {
+        width: 18%;
+    }
+
+    .space {
+        margin-right: 0;
+    }
+
+    #color-examples section + section {
+        margin-left: 2.5%;
+    }
+}
